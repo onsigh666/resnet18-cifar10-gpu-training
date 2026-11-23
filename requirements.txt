@@ -1,0 +1,7 @@
+# torch and torchvision are installed separately by
+# scripts/install_dependencies.py so the wheel matches the available hardware.
+numpy
+matplotlib
+jupyter
+jupyterlab
+ipykernel
